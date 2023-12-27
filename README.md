@@ -16,7 +16,7 @@ User Profiles: Create and customize user profiles to showcase your contributions
 
 Notifications: Receive updates on new resource uploads, forum discussions, and upcoming events.
 
-Getting Started
+Getting Started:
 To run the application locally, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/community-share-app.git
@@ -38,7 +38,7 @@ For questions or feedback, contact us at aumashurendra30@gmail.com .
 
 
 
-
+Some commands  :
 cd client
 yarn
 cd ..
