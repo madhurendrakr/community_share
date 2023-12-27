@@ -2,19 +2,24 @@
 # to run the project do the following  --- 
 ```bash
   **Community Share Web Application** 
-  Overview 
+  Overview :
 Welcome to the Community Share Web Application, a platform designed to foster collaboration and resource sharing within communities. This application serves as a centralized hub for users to share information, updates, and resources, promoting a sense of unity and connectivity.
 
 Features:
-Resource Sharing: Easily share documents, images, and other resources with the community.
+Resource Sharing:
+Easily share documents, images, and other resources with the community.
 
-Discussion Forums: Engage in meaningful conversations with other community members through dedicated discussion forums.
+Discussion Forums:
+Engage in meaningful conversations with other community members through dedicated discussion forums.
 
-Event Calendar: Stay informed about upcoming community events, meetings, and activities.
+Event Calendar:
+Stay informed about upcoming community events, meetings, and activities.
 
-User Profiles: Create and customize user profiles to showcase your contributions and connect with like-minded individuals.
+User Profiles:
+Create and customize user profiles to showcase your contributions and connect with like-minded individuals.
 
-Notifications: Receive updates on new resource uploads, forum discussions, and upcoming events.
+Notifications:
+Receive updates on new resource uploads, forum discussions, and upcoming events.
 
 Getting Started:
 To run the application locally, follow these steps:
