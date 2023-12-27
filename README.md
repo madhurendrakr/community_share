@@ -1,8 +1,8 @@
 ﻿# community-share
 # to run the project do the following  --- 
 ```bash
-  <h2> **Community Share Web Application** </h2>
- <b> Overview </B>
+  **Community Share Web Application** 
+  Overview 
 Welcome to the Community Share Web Application, a platform designed to foster collaboration and resource sharing within communities. This application serves as a centralized hub for users to share information, updates, and resources, promoting a sense of unity and connectivity.
 
 Features:
@@ -28,11 +28,9 @@ For more detailed instructions, refer to the Installation Guide.
 Contributing
 We welcome contributions from the community. If you'd like to contribute, please follow our Contribution Guidelines.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
-For questions or feedback, contact us at communityshare@example.com.
+For questions or feedback, contact us at aumashurendra30@gmail.com .
 
 
 
